@@ -1,0 +1,1 @@
+/* hello-wilder.js */// Define some variablesconst name = 'Med,';const who = 'lui même';const where = 'Strasbourg'const when = '05/2019';const message = name + ' en plein lutte contre ' + who + ' à ' + where + ' en ' + when;// Display a popupalert(message);
