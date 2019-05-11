@@ -1,1 +1,10 @@
-/* hello-wilder.js */// Define some variablesconst name = 'Med,';const who = 'lui même';const where = 'Strasbourg'const when = '05/2019';const message = name + ' en plein lutte contre ' + who + ' à ' + where + ' en ' + when;// Display a popupalert(message);
+/* hello-wilder.js */
+
+// Define some variables
+const title = 'The Godfather';
+const releaseDate = October 18, 1972 ;
+const director = ' Francis Ford Coppola';
+const message = title + ', directed by ' + director + ', released in ' + releaseDate;
+
+// Display a popup
+alert(message);
